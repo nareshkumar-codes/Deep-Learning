@@ -1,4 +1,3 @@
-```python
 import torch 
 import torch.nn as nn 
 import torch.optim as optim 
@@ -220,4 +219,3 @@ print(
     round(acc_adam[-1], 2), 
     "%" 
 )
-```
